@@ -9,7 +9,7 @@ A lightweight Node.js Discord bot built from scratch using only the official Dis
 - Connects directly to Discord Gateway (no helper libraries)
 - Handles commands and events
 - Minimal dependencies
-- Built for a live streamer
+- Built for live streamers
 
 ---
 
