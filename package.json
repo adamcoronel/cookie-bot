@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A lightweight Node.js Discord bot built from scratch using only the official Discord API.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
