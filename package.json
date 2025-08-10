@@ -1,0 +1,27 @@
+{
+  "name": "cookie-bot",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js Discord bot built from scratch using only the official Discord API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcoronel/cookie-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discord-bot",
+    "twitch"
+  ],
+  "author": "Adam Coronel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamcoronel/cookie-bot/issues"
+  },
+  "homepage": "https://github.com/adamcoronel/cookie-bot#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
