@@ -35,12 +35,6 @@ DISCORD_APP_ID=your-app-id-here
 ```
 
 ### 4. Run the Bot
-Development mode:
-```bash
-npm run dev
-```
-
-Production mode:
 ```bash
 npm run build
 npm start
