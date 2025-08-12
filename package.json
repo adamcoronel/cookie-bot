@@ -24,6 +24,7 @@
     "twitch"
   ],
   "dependencies": {
+    "dotenv": "^17.2.1",
     "ws": "^8.18.3"
   },
   "devDependencies": {
